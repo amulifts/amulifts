@@ -47,7 +47,20 @@
   </p>
   
   <p align="center">
-    <a href="https://github.com/amulifts">
-     <img alt="snake contribution" src="https://github.com/amulifts/amulifts/blob/output/github-contribution-grid-snake.gif"/>
-      </a>
-    </p>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/amulifts/amulifts/blob/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github.com/amulifts/amulifts/blob/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://github.com/amulifts/amulifts/blob/output/github-contribution-grid-snake.svg"
+      />
+    </picture>
+  </p>
+
+  

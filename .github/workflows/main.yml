@@ -32,13 +32,12 @@ jobs:
       # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
-      # Push the changes (alternatives to deprecated push action)
+      # Push the changes (alternative to deprecated push action)
       - name: Commit and push changes
-        uses: github-actions-x/commit@v2.11
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
           commit_message: "Generated snake"
+          branch: output
 
       - uses: actions/upload-artifact@v3
         with:
@@ -46,9 +45,9 @@ jobs:
           path: dist/
       
       # Deploy to GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.8.1
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output

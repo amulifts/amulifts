@@ -5,34 +5,22 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=noto+sans&color=37A67C&duration=3000&center=true&vCenter=true&lines=Hello,+There!+%F0%9F%91%8B;I+am+Aman+Khadka.;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=noto+sans&color=37A67C&duration=3000&center=true&vCenter=true&lines=Hello,+There!+%F0%9F%91%8B;I+am+Aman+Khadka.;Nice+to+meet+you!&center=true&size=30"></a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/amulifts">
-    <img src="https://komarev.com/ghpvc/?username=amulifts&color=101010" alt="Profile views" />
-  </a>
+  <a href="https://github.com/amulifts"><img src="https://komarev.com/ghpvc/?username=amulifts&color=101010&style=flat-square&label=Profile%20views" alt="Profile views" /></a>
   &nbsp;
-  <a href="https://github.com/amulifts?tab=followers">
-    <img src="https://img.shields.io/github/followers/amulifts?style=social" alt="Followers" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/amulifts/">
-    <img src="https://img.shields.io/badge/-amulifts-101010?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amulifts/" alt="LinkedIn" />
-  </a>
+  <a href="https://github.com/amulifts?tab=followers"><img src="https://img.shields.io/github/followers/amulifts?style=social" alt="Followers" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/amulifts/"><img src="https://img.shields.io/badge/-amulifts-101010?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amulifts/" alt="LinkedIn" /></a>
 </p>
 <div>
   
 ## 📊 &nbsp;GitHub Stats
   
   <div align="center">
-    <a href="https://github.com/amulifts">
-    <img width=450 height=170 align="center" alt="amulifts" src="./profile/stats.svg" />
-  </a>
-  <a href="https://github.com/amulifts">
-    <img align="center" alt="amulifts" src="./profile/top-langs.svg" />
-  </a>
+    <a href="https://github.com/amulifts"><img width=450 height=170 align="center" alt="amulifts" src="./profile/stats.svg" /></a>
+  <a href="https://github.com/amulifts"><img align="center" alt="amulifts" src="./profile/top-langs.svg" /></a>
   </div>
 </div>
  
@@ -41,9 +29,7 @@
 ## 🔥 &nbsp;Streak Stats
   
   <p align="center">
-  <a href="https://github.com/amulifts">
-    <img alt="Aman Khadka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amulifts&fire=pink&theme=vue-dark&background=0D1117&hide_border=true"/>
-  </a>
+  <a href="https://github.com/amulifts"><img alt="Aman Khadka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amulifts&fire=pink&theme=vue-dark&background=0D1117&hide_border=true"/></a>
   </p>
   
   <p align="center">

@@ -57,10 +57,11 @@
         srcset="https://github.com/amulifts/amulifts/blob/output/github-contribution-grid-snake.svg"
       />
       <img
-        alt="github contribution grid snake animation"
+        alt="Combined contribution snake for GitHub amulifts, GitHub amankworks, and GitLab amankworks"
         src="https://github.com/amulifts/amulifts/blob/output/github-contribution-grid-snake.svg"
       />
     </picture>
   </p>
+  <p align="center">Combined activity: GitHub <a href="https://github.com/amulifts">amulifts</a> + <a href="https://github.com/amankworks">amankworks</a> + GitLab <a href="https://gitlab.com/amankworks">amankworks</a>.</p>
 
   

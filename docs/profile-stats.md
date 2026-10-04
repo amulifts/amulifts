@@ -41,3 +41,25 @@ is enabled. Access restrictions, SSO, and GitHub API limits still apply.
 
 Fine-grained PATs have different coverage and may omit private commit statistics;
 use the generator's documented classic-token configuration for this workflow.
+
+## Combined contribution snake
+
+`Generate Snake` now sums daily calendar counts over the last 365 UTC dates from
+GitHub `amulifts`, GitHub `amankworks`, and GitLab `amankworks`, then uses the
+pinned Platane/snk solver and SVG renderer to animate the merged calendar. Both
+README snake SVGs are published to the existing `output` branch. The previous GIF
+is retained but no longer refreshed; the README uses SVGs only.
+
+- `STATS_PAT` reads the primary GitHub account.
+- Optional `AMANKWORKS_PAT` reads the second GitHub account's private activity.
+  Create it while signed into GitHub `amankworks` and save it as a repository
+  Actions secret here. Without it, the automatic GitHub token reads the calendar
+  visible to that token, including any publicly displayed private-activity totals.
+- GitLab uses its public `/users/amankworks/calendar.json` calendar. No GitLab
+  token is required, and hidden private events are not fetched.
+
+A failed source stops publication and preserves the existing animation. Counts
+are summed by date, with intensity scaled to the highest merged daily count.
+They represent each platform's calendar activity, not just commits. Mirrored
+activity can count on both platforms; aggregate calendars cannot deduplicate it.
+This does not change the stats cards, streak card, or GitHub's native graph.

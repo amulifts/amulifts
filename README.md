@@ -28,10 +28,10 @@
   
   <div align="center">
     <a href="https://github.com/amulifts">
-    <img width=450 height=170 align="center" alt="amulifts" src="https://github-readme-stats.vercel.app/api?username=amulifts&theme=vue-dark&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="amulifts" src="./profile/stats.svg" />
   </a>
   <a href="https://github.com/amulifts">
-    <img align="center" alt="amulifts" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulifts&theme=vue-dark&layout=compact&bg_color=0D1117&hide_border=true&langs_count=10&count_private=true" />
+    <img align="center" alt="amulifts" src="./profile/top-langs.svg" />
   </a>
   </div>
 </div>

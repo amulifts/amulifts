@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="170" viewBox="0 0 450 170" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">Awaiting the first authenticated stats update. No statistics are available yet.</desc>
+  <rect width="450" height="170" rx="5" fill="#0D1117"/>
+  <g font-family="Arial, sans-serif">
+    <text x="25" y="40" fill="#41b883" font-size="18">GitHub Stats</text>
+    <text x="25" y="85" fill="#c9d1d9" font-size="14">Awaiting the first authenticated stats update.</text>
+  </g>
+</svg>

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aman Khadka&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 316, Total Commits  (last year) : 1094, Total PRs: 146, Total Issues: 1, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 316, Total Commits  (last year) : 1097, Total PRs: 146, Total Issues: 1, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 56.28152316825251;
+        stroke-dashoffset: 56.264812911327695;
       }
     }
   
